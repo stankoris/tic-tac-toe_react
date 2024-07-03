@@ -1,0 +1,9 @@
+:root {
+  --text-color: black;
+}
+
+.square {
+  width: 33px;
+  height: 33px;
+  margin: 0;
+}
